@@ -1,5 +1,9 @@
 <changelog xmlns="urn:speedata.de:2014/changelog">
   <chapter version="2.2">
+    <entry version="2.2.1" date="2015-01-27">
+      <en>Bugfix: spot colors apply to stroking and non-stroking operations</en>
+      <de>Fehlerkorrektur: Sonderfarben gelten nun für Striche und Flächen</de>
+    </entry>
     <entry version="2.1.36" date="2015-01-15">
       <en>Add all CSS level 3 colors (see http://www.w3.org/TR/css3-color/ for a list)</en>
       <de>Alle CSS Level 3 Farben hinzugefügt (siehe http://www.w3.org/TR/css3-color/ für eine Liste)</de>
